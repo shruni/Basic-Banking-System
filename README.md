@@ -1,2 +1,7 @@
 # Basic-Banking-System
-Basic Banking System consists of basic information of customers, transaction details of customers , contact us page for further help.This website is built using HTML,CSS,PHP and Javascript
+
+
+  
+1. Clone the repository in your local machine.
+2. Create the database "sparksdb" or any other named (change the settings in spin.php incase you create other named database)
+3. Import the tables by using "sparksdb.sql"
